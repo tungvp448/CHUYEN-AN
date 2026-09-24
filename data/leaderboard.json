@@ -1,0 +1,159 @@
+[
+  {
+    "handle": "Sherlock_Holmes",
+    "score": 3820,
+    "solved": 4,
+    "total_time": 145,
+    "cases_detail": {
+      "1": {
+        "solved": true,
+        "attempts": 1,
+        "time": 25,
+        "clues": 0,
+        "score": 950
+      },
+      "2": {
+        "solved": true,
+        "attempts": 2,
+        "time": 35,
+        "clues": 1,
+        "score": 930
+      },
+      "3": {
+        "solved": true,
+        "attempts": 2,
+        "time": 40,
+        "clues": 0,
+        "score": 970
+      },
+      "4": {
+        "solved": true,
+        "attempts": 1,
+        "time": 45,
+        "clues": 1,
+        "score": 970
+      }
+    },
+    "timestamp": "2026-09-23 21:15"
+  },
+  {
+    "handle": "Conan_Edogawa",
+    "score": 3280,
+    "solved": 4,
+    "total_time": 210,
+    "cases_detail": {
+      "1": {
+        "solved": true,
+        "attempts": 2,
+        "time": 30,
+        "clues": 1,
+        "score": 840
+      },
+      "2": {
+        "solved": true,
+        "attempts": 3,
+        "time": 60,
+        "clues": 1,
+        "score": 780
+      },
+      "3": {
+        "solved": true,
+        "attempts": 1,
+        "time": 50,
+        "clues": 0,
+        "score": 900
+      },
+      "4": {
+        "solved": true,
+        "attempts": 2,
+        "time": 70,
+        "clues": 2,
+        "score": 760
+      }
+    },
+    "timestamp": "2026-09-23 21:45"
+  },
+  {
+    "handle": "Hercule_Poirot",
+    "score": 2540,
+    "solved": 3,
+    "total_time": 280,
+    "cases_detail": {
+      "1": {
+        "solved": true,
+        "attempts": 1,
+        "time": 40,
+        "clues": 0,
+        "score": 920
+      },
+      "2": {
+        "solved": true,
+        "attempts": 4,
+        "time": 110,
+        "clues": 2,
+        "score": 670
+      },
+      "3": {
+        "solved": false,
+        "attempts": 6,
+        "time": 80,
+        "clues": 3,
+        "score": 0
+      },
+      "4": {
+        "solved": true,
+        "attempts": 1,
+        "time": 50,
+        "clues": 0,
+        "score": 950
+      }
+    },
+    "timestamp": "2026-09-23 22:00"
+  },
+  {
+    "handle": "alex nguyen",
+    "score": 1980,
+    "solved": 2,
+    "total_time": 18,
+    "cases_detail": {
+      "1": {
+        "solved": true,
+        "attempts": 1,
+        "time": 7,
+        "clues": 0,
+        "score": 990
+      },
+      "2": {
+        "solved": true,
+        "attempts": 1,
+        "time": 7,
+        "clues": 0,
+        "score": 990
+      }
+    },
+    "timestamp": "2026-09-23 23:42"
+  },
+  {
+    "handle": "Alex",
+    "score": 1984,
+    "solved": 2,
+    "total_time": 32,
+    "cases_detail": {
+      "1": {
+        "solved": true,
+        "attempts": 1,
+        "time": 8,
+        "clues": 0,
+        "score": 988
+      },
+      "2": {
+        "solved": true,
+        "attempts": 1,
+        "time": 3,
+        "clues": 0,
+        "score": 996
+      }
+    },
+    "timestamp": "2026-09-24 00:03"
+  }
+]

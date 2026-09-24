@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "case_name": "Tiền Tệ",
+    "word": "TUENHI",
+    "image": "assets/images/8bit-tuenhi.png",
+    "reveal_image": "assets/images/tuenhi.jpg",
+    "clues": [
+      "Dạt dào",
+      "Leo núi",
+      "Florentino"
+    ]
+  },
+  {
+    "id": 2,
+    "case_name": "Ú chướng ngại vật",
+    "word": "PHUANH",
+    "image": "assets/images/8bit-phuanh.png",
+    "reveal_image": "assets/images/phuanh.jpg",
+    "clues": [
+      "Đi bộ và nhảy",
+      "Fin",
+      "Ngắm núi Phú Sĩ uống rượu sake"
+    ]
+  }
+]
